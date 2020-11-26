@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'bubblet' );
+define( 'DB_NAME', 'cincotrece' );
 
 /** MySQL database username */
-define( 'DB_USER', 'bubblet' );
+define( 'DB_USER', 'sacmedia' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'Gvvs990613%' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'bubblet-database.cunmerliphps.us-east-2.rds.amazonaws.com:3306' );
+define( 'DB_HOST', 'sacmedia-database.cxcrovvbsswg.us-east-2.rds.amazonaws.com:3306' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
